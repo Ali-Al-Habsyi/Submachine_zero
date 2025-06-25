@@ -11,7 +11,9 @@ https://www.highqualityprinting.net/wp-content/uploads/imported/5/Vintage-Map-9-
 
 <h1 align="center">A Reminisent to an Introduction to Game Development<br>
 <br>World Explorer and Generator</h1>
+<p align="center">
 Tech Stack
+</p>
 <p align="center"><a href="#">
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/lua.png" />
   <img src="https://github.com/GrandEchoWhiskey/grandechowhiskey/blob/main/icons/programming/love.png" />
