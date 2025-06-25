@@ -9,7 +9,7 @@ https://www.highqualityprinting.net/wp-content/uploads/imported/5/Vintage-Map-9-
 
 
 
-<h1 align="center">A Corollary to CS50’s Introduction to Game Development<br>
+<h1 align="center">A Reminisent to an Introduction to Game Development<br>
 <br>World Explorer and Generator</h1>
 
 <p align="center"><a href="#">
